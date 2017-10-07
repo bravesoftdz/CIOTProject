@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ASCIOT.pas"/>
+    <File Path="ASCIOTConfiguracoes.pas"/>
+    <File Path="ASCIOTReg.pas"/>
+    <File Path="ASCIOTUtil.pas"/>
+    <File Path="ASCIOTWebServices.pas"/>
+    <File Path="pciotCIOT.pas"/>
+    <File Path="pciotMotoristaR.pas"/>
+    <File Path="pciotMotoristaW.pas"/>
+    <File Path="pciotOperacaoTransporteR.pas"/>
+    <File Path="pciotOperacaoTransporteW.pas"/>
+    <File Path="pciotProprietarioR.pas"/>
+    <File Path="pciotProprietarioW.pas"/>
+    <File Path="pciotVeiculoR.pas"/>
+    <File Path="pciotVeiculoW.pas"/>
+    <File Path="ACBrCapicom.dcp"/>
+    <File Path="dbrtl.dcp"/>
+    <File Path="IndyCore.dcp"/>
+    <File Path="IndyProtocols.dcp"/>
+    <File Path="IndySystem.dcp"/>
+    <File Path="inet.dcp"/>
+    <File Path="PCN2.dcp"/>
+    <File Path="soaprtl.dcp"/>
+    <File Path="synapse.dcp"/>
+    <File Path="xmlrtl.dcp"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>2014/08/05 16:15:03.000.759,=C:\Fontes\XE\Projetos\CIOT\pcnGerador.pas</Transaction>
+    <Transaction>2014/08/05 16:15:03.000.788,=C:\Fontes\XE\Projetos\CIOT\pcnLeitor.pas</Transaction>
+    <Transaction>2014/08/05 16:15:17.000.283,C:\Fontes\XE\Projetos\CIOT\pcnGerador.pas=</Transaction>
+    <Transaction>2014/08/05 16:15:17.000.426,C:\Fontes\XE\Projetos\CIOT\pcnLeitor.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
